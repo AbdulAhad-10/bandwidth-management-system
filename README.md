@@ -8,7 +8,7 @@ Follow these steps to set up and run the project locally:
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v18 or higher)
 - MongoDB database
 - Git
 
